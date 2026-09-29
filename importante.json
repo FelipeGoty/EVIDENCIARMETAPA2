@@ -1,0 +1,2080 @@
+[
+ {
+  "id": 1,
+  "nombre": "Tarjeta Grafica 4090",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta gráfica RTX 4090 Una gran opcion para gaming a alto rendimiento, de nuestros fabricantes PNY y MSI.",
+  "variantes": [
+    {
+      "id": "4090PNY1",
+      "opcion": "24 GB VRAM",
+      "precio": 82999,
+      "stock": 12,
+      "imagenes": [
+        "Imagenespalproyecto/4090PNY1.jpg", 
+             "Imagenespalproyecto/4090PNY2.jpg",
+             "Imagenespalproyecto/4090PNY3.jpg"],
+       "detalles": [
+    "Fabricante: PNY",
+    "Memoria: 24 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y uso intensivo y de alto rendimiento"
+  ]
+    },
+    {
+      "id": "4090MSI1",
+      "opcion": "16 GB VRAM",
+      "precio": 78999,
+      "stock": 7,
+      "imagenes": [
+        "Imagenespalproyecto/4090MSI1.jpg",
+             "Imagenespalproyecto/4090MSI2.jpg",
+             "Imagenespalproyecto/4090MSI3.jpg"], 
+       "detalles": [
+    "Fabricante: MSI",
+    "Memoria: 16 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y aplicaciones de rendimiento intensivo moderadamente"
+  ]
+    }
+  ]
+},
+{
+  "id": 2,
+  "nombre": "Redmi Note 15 ",
+  "categoria": "Celular",
+  "descripcion": "Celular de rendimiento medio decente aveces hehe.",
+  "variantes": [
+    {
+      "id": "REDMI1",
+      "opcion": "8 GB RAM, 128 GB Almacenamiento",
+      "precio": 6999,
+      "stock": 20,
+      "imagenes": [
+        "Imagenespalproyecto/REDMI1.jpg", 
+             "Imagenespalproyecto/REDMI1.2.jpg",
+             "Imagenespalproyecto/REDMI1.3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Redmi",
+    "RAM: 8 GB",
+    "Almacenamiento: 128 GB",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+  ]
+    },
+    {
+      "id": "REDMI2",
+      "opcion": "12 GB RAM, 256 GB Almacenamiento",
+      "precio": 5999,
+      "stock": 15,
+      "imagenes": [
+        "Imagenespalproyecto/REDMI2.jpg", 
+             "Imagenespalproyecto/REDMI2.2.jpg",
+             "Imagenespalproyecto/REDMI2.3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Redmi",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+  ]
+}
+  ]
+}, 
+{
+  "id": 3,
+  "nombre": "Tarjeta Grafica 3090",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta gráfica RTX 3090 Una gran opcion para gaming a alto rendimiento, de nuestros fabricantes PNY y MSI.",
+  "variantes": [
+    {
+      "id": "3090 EVGA",
+      "opcion": "24 GB VRAM",
+      "precio": 68999,
+      "stock": 12,
+      "imagenes": [
+        "Imagenespalproyecto/3090EVGA1.jpg", 
+             "Imagenespalproyecto/3090EVGA2.jpg",
+             "Imagenespalproyecto/3090EVGA3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: PNY",
+    "Memoria: 24 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y uso intensivo y de alto rendimiento"
+  ]
+    },
+    {
+      "id": "3090 ROG",
+      "opcion": "16 GB VRAM",
+      "precio": 62999,
+      "stock": 7,
+      "imagenes": [
+        "Imagenespalproyecto/3090ROG1.jpg",
+             "Imagenespalproyecto/3090ROG2.jpg",
+             "Imagenespalproyecto/3090ROG3.jpg"
+      ], 
+       "detalles": [
+    "Fabricante: MSI",
+    "Memoria: 16 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y aplicaciones de rendimiento intensivo moderadamente"
+  ]
+    }
+  ]
+},
+{
+  "id": 4,
+  "nombre": "POCO X8 PRO",
+  "categoria": "Celular",
+  "descripcion": "Celular de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes POCO y REDMI.",
+  "variantes": [
+    {
+      "id": "POCO1",
+      "opcion": "16 GB RAM, 512 GB Almacenamiento",
+      "precio": 24999,
+      "stock": 14,
+      "imagenes": [
+        "Imagenespalproyecto/POCOX8.webp", 
+             "Imagenespalproyecto/POCOX8.2.webp",
+             "Imagenespalproyecto/POCOX8.3.webp"
+      ],
+       "detalles": [
+    "Fabricante: POCO",
+    "Núcleos: 16",
+    "Hilos: 32",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+  ]
+    },
+    {
+      "id": "POCO2",
+      "opcion": "12 GB RAM, 256 GB Almacenamiento",
+      "precio": 18999,
+      "stock": 8,
+      "imagenes": [
+        "Imagenespalproyecto/POCOX8C.webp", 
+             "Imagenespalproyecto/POCOX8C2.webp",
+             "Imagenespalproyecto/POCOX8C3.webp"
+      ],
+       "detalles": [
+    "Fabricante: POCO",
+    "Núcleos: 12",
+    "Hilos: 24",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+  ]
+}
+  ]
+},
+{
+  "id": 5,
+  "nombre": "Xbox One S",
+  "categoria": "Consola",
+  "descripcion": "Consola de gaming Bonita aunque ya este pasada, de nuestros fabricantes Microsoft.",
+  "variantes": [
+    {
+      "id": "Xbox One S Edicion Battlefield",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 7000,
+      "stock": 3,
+      "imagenes": [
+        "Imagenespalproyecto/XBOXOS1.jpg", 
+             "Imagenespalproyecto/XBOXOS2.jpg",
+             "Imagenespalproyecto/XBOXOS3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Microsoft",
+    "RAM: 12 GB",
+    "Almacenamiento: 1 TB"
+    
+  ]
+    },
+    {
+      "id": "Xbox One S Edicion Fornite",
+      "opcion": "512 GB Almacenamiento",
+      "precio": 5000,
+      "stock": 1,
+      "imagenes": [
+        "Imagenespalproyecto/XBOXON1.jpg", 
+             "Imagenespalproyecto/XBOXON2.jpg",
+             "Imagenespalproyecto/XBOXON3.jpg"
+      ],
+        "detalles": [
+    "Fabricante: Microsoft",
+    "RAM: 12 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+}
+  ]
+},
+{
+  "id": 6,
+  "nombre": "Xiaomi Buds 2",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de calidad dudosa, de nuestros fabricantes Xiaomi.",
+  "variantes": [
+    {
+      "id": "Xiaomi Buds 2 Blancos",
+      "opcion": "Blancos",
+      "precio": 320,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/BUDS2.jpg", 
+             "Imagenespalproyecto/BUDS22.jpg",
+             "Imagenespalproyecto/BUDS23.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Xiaomi",
+    "Audio: Bonito y claro",
+    "Bluetooth: 5.0",
+    "Bateria: 24 horas"
+    
+  ]
+    },
+    {
+      "id": "Xiaomi Buds 2 Azules",
+      "opcion": "Azules",
+      "precio": 300,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/BUDSB1.jpg", 
+             "Imagenespalproyecto/BUDSB2.jpg",
+             "Imagenespalproyecto/BUDSB3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Xiaomi",
+    "Audio: Bonito y claro",
+    "Bluetooth: 5.0",
+    "Bateria: 24 horas"
+    
+  ]
+    }
+    
+  ]
+}, 
+{
+  "id": 7,
+  "nombre": "Spiderman Miles Morales",
+  "categoria": "Videojuego",
+  "descripcion": "Juego bien pro de spiderman morenito, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "Spiderman Miles Morales Edicion Deluxe",
+      "opcion": "Deluxe",
+      "precio": 920,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SPMM1.jpg", 
+             "Imagenespalproyecto/SPMM2.jpg"
+            
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Precio: 920",
+    "Peso del juego: 50 GB",
+    "Plataforma: PS5"
+    
+  ]
+    },
+    {
+      "id": "Spiderman Miles Morales Edicion ps4",
+      "opcion": "PS4",
+      "precio": 870,
+      "stock": 3,
+      "imagenes": [
+        "Imagenespalproyecto/SPMMPS4.jpg", 
+             "Imagenespalproyecto/SPMMPS42.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Precio: 870",
+    "Peso del juego: 50 GB",
+    "Plataforma: PS4"
+    
+    
+  ]
+    }
+  ]
+},
+{
+  "id": 8,
+  "nombre": "Samsung Galaxy S23",
+  "categoria": "Celular",
+  "descripcion": "Celular de medio rendimiento, de nuestros fabricantes Samsung.",
+  "variantes": [
+    {
+      "id": "S23 Edicion Estándar",
+      "opcion": "12 GB RAM, 256 GB Almacenamiento",
+      "precio": 6799,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SMSGS23.jpg", 
+             "Imagenespalproyecto/SMSGS232.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB"
+    
+  ]
+    },
+    {
+      "id": "S23 Edicion Plus",
+      "opcion": "12 GB RAM, 512 GB Almacenamiento",
+      "precio": 8999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SMGS23FEO.jpg", 
+             "Imagenespalproyecto/SMGS23FEO2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+    }
+  ]
+}, 
+{
+  "id": 9,
+  "nombre": "Playstation 5",
+  "categoria": "Consola",
+  "descripcion": "Consola de gaming de nueva generacion, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "PS5 Edicion Estándar",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 14999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/PS51.jpg", 
+             "Imagenespalproyecto/PS52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "RAM: 16 GB",
+    "Almacenamiento: 1 TB"
+    
+  ]
+    },
+    {
+      "id": "PS5 Edicion Digital",
+      "opcion": "512 GB Almacenamiento",
+      "precio": 12999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/PS53.jpg", 
+             "Imagenespalproyecto/PS54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "RAM: 16 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+    }
+  ]
+}, 
+{
+  "id": 10,
+  "nombre": "Nintendo Switch",
+  "categoria": "Consola",
+  "descripcion": "Consola de gaming portatil, de nuestros fabricantes Nintendo.",
+  "variantes": [
+    {
+      "id": "Switch Edicion Estándar",
+      "opcion": "32 GB Almacenamiento",
+      "precio": 7999,
+      "stock": 10,
+      "imagenes": [
+        
+             "Imagenespalproyecto/NS1.jpg",
+             "Imagenespalproyecto/NS2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "RAM: 4 GB",
+    "Almacenamiento: 32 GB"
+    
+  ]
+    },
+    {
+      "id": "Switch Edicion Mariowros",
+      "opcion": "64 GB Almacenamiento",
+      "precio": 9999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/NS3.jpg", 
+             "Imagenespalproyecto/NS4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "RAM: 4 GB",
+    "Almacenamiento: 64 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 11,
+  "nombre": "Apple iPhone 15",
+  "categoria": "Celular",
+  "descripcion": "Celular de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes Apple.",
+  "variantes": [
+    {
+      "id": "iPhone 15 Edicion Estándar",
+      "opcion": "Negro-8 GB RAM, 128 GB Almacenamiento",
+      "precio": 9999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/IPN.jpg", 
+             "Imagenespalproyecto/IPN2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 8 GB",
+    "Almacenamiento: 128 GB"
+    
+  ]
+    },
+    {
+      "id": "iPhone 15 Edicion Pro",
+      "opcion": "Blanco-12 GB RAM, 256 GB Almacenamiento",
+      "precio": 12999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/IPW.jpg", 
+             "Imagenespalproyecto/IPW2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 12,
+  "nombre": "Samsung Galaxy Z Fold 5",
+  "categoria": "Celular",
+  "descripcion": "Celular plegable de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes Samsung.",
+  "variantes": [
+    {
+      "id": "Z Fold 5 Edicion Estándar",
+      "opcion": "Azul-12 GB RAM, 256 GB Almacenamiento",
+      "precio": 19999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/ZFOLD6.jpg", 
+             "Imagenespalproyecto/ZFOLD2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB"
+    
+  ]
+    },
+    {
+      "id": "Z Fold 5 Edicion Plus",
+      "opcion": "Blanco-12 GB RAM, 512 GB Almacenamiento",
+      "precio": 24999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/ZFOLD63.jpg", 
+             "Imagenespalproyecto/ZFOLD64.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 13,
+  "nombre": "Sony WH-1000XM5",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "WH-1000XM5 Edicion Estándar",
+      "opcion": "Rosita",
+      "precio": 3999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/WH1000XM5.jpg", 
+             "Imagenespalproyecto/WH1000XM52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "WH-1000XM5 Edicion Negro",
+      "opcion": "Negro",
+      "precio": 4299,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/WH1000XM53.jpg", 
+             "Imagenespalproyecto/WH1000XM54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 14,
+  "nombre": "Sony ULT900N",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "ULT900N Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 2999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SULT900N.jpg", 
+             "Imagenespalproyecto/SULT900N2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 18 horas"
+    
+  ]
+    },
+    {
+      "id": "ULT900N Edicion Blanco",
+      "opcion": "Blanco",
+      "precio": 3199,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SULT900N3.jpg", 
+             "Imagenespalproyecto/SULT900N4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 20 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 15,
+  "nombre": "Lenovo Legion Laptop Gamer",
+  "categoria": "Laptops",
+  "descripcion": "Laptop gamer de alta gama, de nuestros fabricantes Lenovo.",
+  "variantes": [
+    {
+      "id": "Legion Laptop Gamer Edicion Estándar",
+      "opcion": "1 TB de almacenamiento",
+      "precio": 78999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/LENLAP.jpg", 
+             "Imagenespalproyecto/LENLAP2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Lenovo",
+    "RAM: 32 GB",
+    "Almacenamiento: 1 TB",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "Legion Laptop Gamer ",
+      "opcion": "2 TB Almacenamiento",
+      "precio": 89999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/LENLAP3.jpg", 
+             "Imagenespalproyecto/LENLAP4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Lenovo",
+    "RAM: 32 GB",
+    "Almacenamiento: 2 TB",
+    "Bateria: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 16,
+  "nombre": "AMD Ryzen 7 5700",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alta gama, de nuestros fabricantes AMD.",
+  "variantes": [
+    {
+      "id": "Ryzen 7 5700 Edicion Estándar",
+      "opcion": "5700 8 núcleos",
+      "precio": 6000,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/AMDRYZEN5700.jpg"
+          
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Núcleos: 8",
+    "Hilos: 16",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+
+    
+  ]
+    },
+    {
+      "id": "Ryzen 7 5700X Edicion Plata",
+      "opcion": "5700X 12 núcleos",
+      "precio": 6399,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/AMDRYZEN5700.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Núcleos: 12",
+    "Hilos: 24",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 17,
+  "nombre": "Skullcandy Crusher Evo",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Skullcandy.",
+  "variantes": [
+    {
+      "id": "Crusher Evo Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 5199,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/skullcandy1.jpg", 
+             "Imagenespalproyecto/skullcandy2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Skullcandy",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "Crusher Evo Edicion Plata",
+      "opcion": "Celeste",
+      "precio": 4299,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/skullcandy3.jpg", 
+             "Imagenespalproyecto/skullcandy4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Skullcandy",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 18,
+  "nombre": "Sound Core",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "Sound Core Edicion Estándar",
+      "opcion": "Blanco",
+      "precio": 2999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/sc1.jpg", 
+             "Imagenespalproyecto/sc2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sound Core",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "Sound Core Edicion Azulito",
+      "opcion": "Azul",
+      "precio": 3199,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/sc3.jpg", 
+             "Imagenespalproyecto/sc4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sound Core",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 19,
+  "nombre": "Nintendo Switch 2",
+  "categoria": "Consola",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Nintendo Switch 2 Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 10999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SW2.jpg", 
+             "Imagenespalproyecto/SW22.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch 2",
+    "Almacenamiento: 128 GB",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "Nintendo Switch 2 Edicion 256 GB",
+      "opcion": "Negro 256 GB",
+      "precio": 12999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SW23.jpg", 
+             "Imagenespalproyecto/SW24.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch 2",
+    "Almacenamiento: 256 GB",
+    "Bateria: 30 horas"
+  ]
+    }
+   ]
+}, 
+{
+  "id": 20,
+  "nombre": "PS5 Edicion Juego Estafa",
+  "categoria": "Consola",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "PS5 Edicion Juego Estafa",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 15999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/PS5ES.jpg", 
+             "Imagenespalproyecto/PS5ES2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Almacenamiento: 1 TB",
+    "Bateria Control: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "PS5 Edicion 2 TB Almacenamiento",
+      "opcion": "2 TB Almacenamiento",
+      "precio": 17999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/PS5ES.jpg", 
+             "Imagenespalproyecto/PS5ES2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Almacenamiento: 2 TB",
+    "Bateria Control: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 21,
+  "nombre": "Ryzen 5 5600X",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+  "variantes": [
+    {
+      "id": "Ryzen 5 5600X Edicion Estándar",
+      "opcion": "6 núcleos, 12 hilos",
+      "precio": 7999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/ryzen5.jpg", 
+             "Imagenespalproyecto/ryzen52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Modelo: Ryzen 5 5600X",
+    "Núcleos: 6",
+    "Hilos: 12"
+    
+  ]
+    },
+    {
+      "id": "Ryzen 5 5600X Edicion Pro",
+      "opcion": "8 núcleos, 24 hilos",
+      "precio": 8999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/ryzen53.jpg", 
+             "Imagenespalproyecto/ryzen54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Modelo: Ryzen 5 5600X",
+    "Núcleos: 8",
+    "Hilos: 24"
+    
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 22,
+  "nombre": "Wolverine",
+  "categoria": "Videojuego",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Wolverine",
+      "opcion": "Edicion Estándar",
+      "precio": 1499,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/juegoestafa.jpg", 
+             "Imagenespalproyecto/juegoestafa2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Peso del juego: 50 GB"
+    
+  ]
+    },
+    {
+      "id": "Wolverine",
+      "opcion": "Edicion Pro",
+      "precio": 1799,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/juegoestafa.jpg", 
+             "Imagenespalproyecto/juegoestafa2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Peso del juego: 50 GB"
+  ]
+    }
+   ]
+}, 
+{
+  "id": 23,
+  "nombre": "Intel Core 9 Ultra",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+  "variantes": [
+    {
+      "id": "Intel Core 9 Ultra Edicion Estándar",
+      "opcion": "16 núcleos, 32 hilos",
+      "precio": 12999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/intelultra.jpg", 
+             "Imagenespalproyecto/intelultra2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Intel",
+    "Modelo: Core 9 Ultra",
+    "Núcleos: 16",
+    "Hilos: 32"
+    
+  ]
+    },
+    {
+      "id": "Intel Core 9 Ultra Edicion Pro",
+      "opcion": "20 núcleos, 40 hilos",
+      "precio": 14999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/intelultra3.jpg", 
+             "Imagenespalproyecto/intelultra4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Intel",
+    "Modelo: Core 9 Ultra",
+    "Núcleos: 20",
+    "Hilos: 40"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 24,
+  "nombre": "Zelda Ocarina of Time",
+  "categoria": "Videojuego",
+  "descripcion": "Juego de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Zelda Ocarina of Time Edicion Estándar",
+      "opcion": "Edicion Estándar",
+      "precio": 999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/zldao.jpg", 
+             "Imagenespalproyecto/zldao3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch",
+    "Peso del juego: 10 GB"
+    
+  ]
+    },
+    {
+      "id": "Zelda Ocarina of Time Edicion Pro",
+      "opcion": "Edicion Pro",
+      "precio": 1099,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/zldao2.jpg", 
+             "Imagenespalproyecto/zldao4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch",
+    "Peso del juego: 10 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 25,
+  "nombre": "RTX 5070 ASUS",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta de video de alto rendimiento para gaming.",
+  "variantes": [
+    {
+      "id": "RTX 5070 ASUS Edicion Estándar",
+      "opcion": "Edicion Estándar",
+      "precio": 20999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/5070asus.jpg", 
+             "Imagenespalproyecto/5070asus2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: ASUS",
+    "Modelo: RTX 5070",
+    "Memoria: 12 GB",
+    "Tipo: GDDR6X"
+    
+  ]
+    },
+    {
+      "id": "RTX 5070 ASUS Edicion Pro",
+      "opcion": "Edicion Pro",
+      "precio": 22999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/5070asus3.jpg", 
+             "Imagenespalproyecto/5070asus4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: ASUS",
+    "Modelo: RTX 5070",
+    "Memoria: 12 GB",
+    "Tipo: GDDR6X"
+        
+  ]
+}
+    ]
+  },  {
+  "id": 26,
+  "nombre": "Tarjeta Grafica 5070 TUF",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta gráfica RTX 5070 TUF Una gran opcion para gaming a alto rendimiento, de nuestros fabricantes PNY y MSI.",
+  "variantes": [
+    {
+      "id": "5070TUF1",
+      "opcion": "24 GB VRAM",
+      "precio": 37999,
+      "stock": 12,
+      "imagenes": [
+        "Imagenespalproyecto/5070tuf.jpg", 
+             "Imagenespalproyecto/5070tuf2.jpg"],
+       "detalles": [
+    "Fabricante: TUF Gaming",
+    "Memoria: 24 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y uso intensivo y de alto rendimiento"
+  ]
+    },
+    {
+      "id": "5070TUF2",
+      "opcion": "16 GB VRAM",
+      "precio": 32999,
+      "stock": 7,
+      "imagenes": [
+        "Imagenespalproyecto/5070tuf.jpg",
+             "Imagenespalproyecto/5070tuf2.jpg"], 
+       "detalles": [
+    "Fabricante: TUF Gaming",
+    "Memoria: 16 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y aplicaciones de rendimiento intensivo moderadamente"
+  ]
+    }
+  ]
+},
+{
+  "id": 27,
+  "nombre": "Iphone 17 ",
+  "categoria": "Celular",
+  "descripcion": "Celular de rendimiento alto.",
+  "variantes": [
+    {
+      "id": "Iphone17",
+      "opcion": "Azul 16 GB RAM, 256 GB Almacenamiento",
+      "precio": 30999,
+      "stock": 20,
+      "imagenes": [
+        "Imagenespalproyecto/ip17.jpg", 
+             "Imagenespalproyecto/ip172.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 16 GB",
+    "Almacenamiento: 256 GB",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "Iphone17",
+      "opcion": "Azul 16 GB RAM, 256 GB Almacenamiento",
+      "precio": 30999,
+      "stock": 15,
+      "imagenes": [
+        "Imagenespalproyecto/ip173.jpg", 
+             "Imagenespalproyecto/ip174.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 16 GB",
+    "Almacenamiento: 256 GB",
+    "Bateria: 30 horas"
+  ]
+}
+  ]
+}, 
+{
+  "id": 28,
+  "nombre": "RX 7600",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta gráfica RX 7600 Una gran opcion para gaming a alto rendimiento, de nuestros fabricantes PNY y MSI.",
+  "variantes": [
+    {
+      "id": "7600 GIGABYTE",
+      "opcion": "12 GB VRAM",
+      "precio": 9999,
+      "stock": 12,
+      "imagenes": [
+        "Imagenespalproyecto/rx7600.jpg", 
+             "Imagenespalproyecto/rx76002.jpg"
+      ],
+       "detalles": [
+    "Fabricante: GIGABYTE",
+    "Memoria: 12 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y uso intensivo y de alto rendimiento"
+  ]
+    },
+    {
+      "id": "RX7600 ",
+      "opcion": "8 GB VRAM",
+      "precio": 7899,
+      "stock": 7,
+      "imagenes": [
+        "Imagenespalproyecto/rx7600.jpg",
+             "Imagenespalproyecto/rx76002.jpg"
+      ], 
+       "detalles": [
+    "Fabricante: GIGABYTE",
+    "Memoria: 8 GB",
+    "Tipo: GDDR6X",
+    "Para: Juegos y aplicaciones de rendimiento intensivo moderadamente"
+  ]
+    }
+  ]
+},
+{
+  "id": 29,
+  "nombre": "Google Pixel 11",
+  "categoria": "Celular",
+  "descripcion": "Celular de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes POCO y REDMI.",
+  "variantes": [
+    {
+      "id": "Google Pixel 11 ",
+      "opcion": "Color Pistache",
+      "precio": 24999,
+      "stock": 14,
+      "imagenes": [
+        "Imagenespalproyecto/gp.jpg", 
+             "Imagenespalproyecto/gp2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Google",
+    "Almacenamiento: 512 GB",
+    "RAM: 16 GB",
+    "Bateria: 30 horas"
+  ]
+    },
+    {
+      "id": "Google Pixel 11",
+      "opcion": "Color Glaciar",
+      "precio": 24999,
+      "stock": 8,
+      "imagenes": [
+        "Imagenespalproyecto/gp3.jpg", 
+             "Imagenespalproyecto/gp4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Google",
+    "Almacenamiento: 512 GB",
+    "RAM: 16 GB",
+    "Bateria: 30 horas"
+  ]
+}
+  ]
+},
+{
+  "id": 30,
+  "nombre": "Super Mario Galaxy",
+  "categoria": "Videojuego",
+  "descripcion": "Videojuego divertido y emocionante.",
+  "variantes": [
+    {
+      "id": "Super Mario Galaxy Edicion Estándar",
+      "opcion": "Estandar",
+      "precio": 699,
+      "stock": 3,
+      "imagenes": [
+        "Imagenespalproyecto/spmg.jpg", 
+             "Imagenespalproyecto/spmg2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Peso del juego: 10 GB"
+  ]
+    },
+    {
+      "id": "Super Mario Galaxy Edicion Pro",
+      "opcion": "Pro",
+      "precio": 899,
+      "stock": 1,
+      "imagenes": [
+        "Imagenespalproyecto/spmg.jpg", 
+             "Imagenespalproyecto/spmg2.jpg"
+      ],
+        "detalles": [
+    "Fabricante: Nintendo",
+    "Peso del juego: 10 GB",
+    "Regalito en la caja"
+    
+  ]
+}
+  ]
+},
+{
+  "id": 31,
+  "nombre": "Realme Air",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de calidad dudosa, de nuestros fabricantes Xiaomi.",
+  "variantes": [
+    {
+      "id": "Realme Air Negros",
+      "opcion": "Negros",
+      "precio": 1099,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/realmeair.webp"
+      ],
+       "detalles": [
+    "Fabricante: Realme",
+    "Audio: Bonito y claro",
+    "Bluetooth: 5.0",
+    "Bateria: 24 horas"
+    
+  ]
+    },
+    {
+      "id": "Realme Air Dorados",
+      "opcion": "Dorado",
+      "precio": 1099,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/realmeair2.webp"
+      ],
+       "detalles": [
+    "Fabricante: Realme",
+    "Audio: Bonito y claro",
+    "Bluetooth: 5.0",
+    "Bateria: 24 horas"
+    
+  ]
+    }
+    
+  ]
+}, 
+{
+  "id": 32,
+  "nombre": "Spiderman Miles Morales ps",
+  "categoria": "Videojuego",
+  "descripcion": "Juego bien pro de spiderman morenito, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "Spiderman Miles Morales Edicion Deluxe",
+      "opcion": "Deluxe",
+      "precio": 920,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SPMM1.jpg", 
+             "Imagenespalproyecto/SPMM2.jpg"
+            
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Precio: 920",
+    "Peso del juego: 50 GB",
+    "Plataforma: PS5"
+    
+  ]
+    },
+    {
+      "id": "Spiderman Miles Morales Edicion ps4",
+      "opcion": "PS4",
+      "precio": 870,
+      "stock": 3,
+      "imagenes": [
+        "Imagenespalproyecto/SPMMPS4.jpg", 
+             "Imagenespalproyecto/SPMMPS42.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Precio: 870",
+    "Peso del juego: 50 GB",
+    "Plataforma: PS4"
+    
+    
+  ]
+    }
+  ]
+},
+{
+  "id": 33,
+  "nombre": "Samsung Galaxy S26",
+  "categoria": "Celular",
+  "descripcion": "Celular de medio rendimiento, de nuestros fabricantes Samsung.",
+  "variantes": [
+    {
+      "id": "S26 Edicion Estándar",
+      "opcion": "12 GB RAM, 256 GB Almacenamiento",
+      "precio": 8999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SMSGS23.jpg", 
+             "Imagenespalproyecto/SMSGS232.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB"
+    
+  ]
+    },
+    {
+      "id": "S26 Edicion Plus",
+      "opcion": "12 GB RAM, 512 GB Almacenamiento",
+      "precio": 10999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SMGS23FEO.jpg", 
+             "Imagenespalproyecto/SMGS23FEO2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+    }
+  ]
+}, 
+{
+  "id": 34,
+  "nombre": "Playstation 5 pro",
+  "categoria": "Consola",
+  "descripcion": "Consola de gaming de nueva generacion, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "PS5 Edicion pro",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 16999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/PS51.jpg", 
+             "Imagenespalproyecto/PS52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "RAM: 16 GB",
+    "Almacenamiento: 1 TB"
+    
+  ]
+    },
+    {
+      "id": "PS5 Edicion Digital",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 14999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/PS53.jpg", 
+             "Imagenespalproyecto/PS54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "RAM: 16 GB",
+    "Almacenamiento: 1 TB"
+    
+  ]
+    }
+  ]
+}, 
+{
+  "id": 35,
+  "nombre": "Nintendo Switch OLED",
+  "categoria": "Consola",
+  "descripcion": "Consola de gaming portatil, de nuestros fabricantes Nintendo.",
+  "variantes": [
+    {
+      "id": "Switch Oled Edicion Estándar",
+      "opcion": "64 GB Almacenamiento",
+      "precio": 9999,
+      "stock": 10,
+      "imagenes": [
+        
+             "Imagenespalproyecto/NS1.jpg",
+             "Imagenespalproyecto/NS2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "RAM: 4 GB",
+    "Almacenamiento: 64 GB"
+    
+  ]
+    },
+    {
+      "id": "Switch oled Edicion Mariowros",
+      "opcion": "128 GB Almacenamiento",
+      "precio": 11999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/NS3.jpg", 
+             "Imagenespalproyecto/NS4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "RAM: 4 GB",
+    "Almacenamiento: 128 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 36,
+  "nombre": "Apple iPhone 67",
+  "categoria": "Celular",
+  "descripcion": "Celular de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes Apple.",
+  "variantes": [
+    {
+      "id": "iPhone 67 Edicion Estándar",
+      "opcion": "Negro-8 GB RAM, 128 GB Almacenamiento",
+      "precio": 12999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/IPN.jpg", 
+             "Imagenespalproyecto/IPN2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 8 GB",
+    "Almacenamiento: 128 GB"
+    
+  ]
+    },
+    {
+      "id": "iPhone 15 Edicion Pro",
+      "opcion": "Blanco-12 GB RAM, 256 GB Almacenamiento",
+      "precio": 14999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/IPW.jpg", 
+             "Imagenespalproyecto/IPW2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Apple",
+    "RAM: 12 GB",
+    "Almacenamiento: 256 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 37,
+  "nombre": "Samsung Galaxy Z Fold 7",
+  "categoria": "Celular",
+  "descripcion": "Celular plegable de alto rendimiento para gaming y uso intensivo, de nuestros fabricantes Samsung.",
+  "variantes": [
+    {
+      "id": "Z Fold 7 Edicion Estándar",
+      "opcion": "Azul-12 GB RAM, 512 GB Almacenamiento",
+      "precio": 24999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/ZFOLD6.jpg", 
+             "Imagenespalproyecto/ZFOLD2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 12 GB",
+    "Almacenamiento: 512 GB"
+    
+  ]
+    },
+    {
+      "id": "Z Fold 5 Edicion Plus",
+      "opcion": "Blanco-16 GB RAM, 1 TB Almacenamiento",
+      "precio": 28999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/ZFOLD63.jpg", 
+             "Imagenespalproyecto/ZFOLD64.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Samsung",
+    "RAM: 16 GB",
+    "Almacenamiento: 1 TB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 38,
+  "nombre": "Sony WH-1000XM6",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "WH-1000XM6 Edicion Estándar",
+      "opcion": "Rosita",
+      "precio": 4999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/WH1000XM5.jpg", 
+             "Imagenespalproyecto/WH1000XM52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "WH-1000XM6 Edicion Negro",
+      "opcion": "Negro",
+      "precio": 5399,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/WH1000XM53.jpg", 
+             "Imagenespalproyecto/WH1000XM54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 39,
+  "nombre": "Sony ULT1000N",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "ULT1000N Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 3999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SULT900N.jpg", 
+             "Imagenespalproyecto/SULT900N2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 18 horas"
+    
+  ]
+    },
+    {
+      "id": "ULT900N Edicion Blanco",
+      "opcion": "Blanco",
+      "precio": 4199,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SULT900N3.jpg", 
+             "Imagenespalproyecto/SULT900N4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 20 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 40,
+  "nombre": "Lenovo Legion Laptop Gamer ULTRA XD",
+  "categoria": "Laptops",
+  "descripcion": "Laptop gamer de alta gama, de nuestros fabricantes Lenovo.",
+  "variantes": [
+    {
+      "id": "Legion Laptop Gamer Edicion Estándar",
+      "opcion": "48 GB RAM 1 TB de almacenamiento",
+      "precio": 109999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/LENLAP.jpg", 
+             "Imagenespalproyecto/LENLAP2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Lenovo",
+    "RAM: 48 GB",
+    "Almacenamiento: 1 TB",
+    "Bateria: 48 horas"
+    
+  ]
+    },
+    {
+      "id": "Legion Laptop Gamer ",
+      "opcion": "64 GB RAM 2 TB Almacenamiento",
+      "precio": 129999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/LENLAP3.jpg", 
+             "Imagenespalproyecto/LENLAP4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Lenovo",
+    "RAM: 64 GB",
+    "Almacenamiento: 2 TB",
+    "Bateria: 48 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 41,
+  "nombre": "AMD Ryzen 7 5700",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alta gama, de nuestros fabricantes AMD.",
+  "variantes": [
+    {
+      "id": "Ryzen 7 5700 Edicion Estándar",
+      "opcion": "5700 8 núcleos",
+      "precio": 6000,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/AMDRYZEN5700.jpg"
+          
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Núcleos: 8",
+    "Hilos: 16",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+
+    
+  ]
+    },
+    {
+      "id": "Ryzen 7 5700X Edicion Plata",
+      "opcion": "5700X 12 núcleos",
+      "precio": 6399,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/AMDRYZEN5700.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Núcleos: 12",
+    "Hilos: 24",
+    "Arquitectura: Zen 4",
+    "Soporte: PCIe 5.0"
+
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 42,
+  "nombre": "Skullcandy Crusher Evo PRO",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Skullcandy.",
+  "variantes": [
+    {
+      "id": "Crusher Evo Pro Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 6099,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/skullcandy1.jpg", 
+             "Imagenespalproyecto/skullcandy2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Skullcandy",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 48 horas"
+    
+  ]
+    },
+    {
+      "id": "Crusher Evo Pro Edicion Celeste",
+      "opcion": "Celeste",
+      "precio": 6799,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/skullcandy3.jpg", 
+             "Imagenespalproyecto/skullcandy4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Skullcandy",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 48 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 43,
+  "nombre": "Sound Core prosito",
+  "categoria": "Audifonos",
+  "descripcion": "Audifonos inalambricos de alta calidad, de nuestros fabricantes Sony.",
+  "variantes": [
+    {
+      "id": "Sound Core pro  Edicion Estándar",
+      "opcion": "Blanco",
+      "precio": 3299,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/sc1.jpg", 
+             "Imagenespalproyecto/sc2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sound Core",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 48 horas"
+    
+  ]
+    },
+    {
+      "id": "Sound Core pro Edicion Azulito",
+      "opcion": "Azul",
+      "precio": 3499,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/sc3.jpg", 
+             "Imagenespalproyecto/sc4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sound Core",
+    "Audio: Alta calidad",
+    "Bluetooth: 5.0",
+    "Bateria: 48 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 44,
+  "nombre": "Nintendo Switch 2 oledmax",
+  "categoria": "Consola",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Nintendo Switch 2 oled max Edicion Estándar",
+      "opcion": "Negro",
+      "precio": 12999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/SW2.jpg", 
+             "Imagenespalproyecto/SW22.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch 2 oled max",
+    "Almacenamiento: 256 GB",
+    "Bateria: 72 horas"
+    
+  ]
+    },
+    {
+      "id": "Nintendo Switch 2 Edicion 512 GB",
+      "opcion": "Negro 512 GB",
+      "precio": 15999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/SW23.jpg", 
+             "Imagenespalproyecto/SW24.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch 2",
+    "Almacenamiento: 512 GB",
+    "Bateria: 72 horas"
+  ]
+    }
+   ]
+}, 
+{
+  "id": 45,
+  "nombre": "PS5 Edicion Juego Estafa",
+  "categoria": "Consola",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "PS5 Edicion Juego Estafa",
+      "opcion": "1 TB Almacenamiento",
+      "precio": 15999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/PS5ES.jpg", 
+             "Imagenespalproyecto/PS5ES2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Almacenamiento: 1 TB",
+    "Bateria Control: 30 horas"
+    
+  ]
+    },
+    {
+      "id": "PS5 Edicion 2 TB Almacenamiento",
+      "opcion": "2 TB Almacenamiento",
+      "precio": 17999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/PS5ES.jpg", 
+             "Imagenespalproyecto/PS5ES2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Almacenamiento: 2 TB",
+    "Bateria Control: 30 horas"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 46,
+  "nombre": "Ryzen 5 5600X",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+  "variantes": [
+    {
+      "id": "Ryzen 5 5600X Edicion Estándar",
+      "opcion": "6 núcleos, 12 hilos",
+      "precio": 7999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/ryzen5.jpg", 
+             "Imagenespalproyecto/ryzen52.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Modelo: Ryzen 5 5600X",
+    "Núcleos: 6",
+    "Hilos: 12"
+    
+  ]
+    },
+    {
+      "id": "Ryzen 5 5600X Edicion Pro",
+      "opcion": "8 núcleos, 24 hilos",
+      "precio": 8999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/ryzen53.jpg", 
+             "Imagenespalproyecto/ryzen54.jpg"
+      ],
+       "detalles": [
+    "Fabricante: AMD",
+    "Modelo: Ryzen 5 5600X",
+    "Núcleos: 8",
+    "Hilos: 24"
+    
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 47,
+  "nombre": "Wolverine",
+  "categoria": "Videojuego",
+  "descripcion": "Consola de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Wolverine",
+      "opcion": "Edicion Estándar",
+      "precio": 1499,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/juegoestafa.jpg", 
+             "Imagenespalproyecto/juegoestafa2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Peso del juego: 50 GB"
+    
+  ]
+    },
+    {
+      "id": "Wolverine",
+      "opcion": "Edicion Pro",
+      "precio": 1799,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/juegoestafa.jpg", 
+             "Imagenespalproyecto/juegoestafa2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Sony",
+    "Modelo: PS5",
+    "Peso del juego: 50 GB"
+  ]
+    }
+   ]
+}, 
+{
+  "id": 48,
+  "nombre": "Intel Core 9 Ultra",
+  "categoria": "Procesadores",
+  "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+  "variantes": [
+    {
+      "id": "Intel Core 9 Ultra Edicion Estándar",
+      "opcion": "16 núcleos, 32 hilos",
+      "precio": 12999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/intelultra.jpg", 
+             "Imagenespalproyecto/intelultra2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Intel",
+    "Modelo: Core 9 Ultra",
+    "Núcleos: 16",
+    "Hilos: 32"
+    
+  ]
+    },
+    {
+      "id": "Intel Core 9 Ultra Edicion Pro",
+      "opcion": "20 núcleos, 40 hilos",
+      "precio": 14999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/intelultra3.jpg", 
+             "Imagenespalproyecto/intelultra4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Intel",
+    "Modelo: Core 9 Ultra",
+    "Núcleos: 20",
+    "Hilos: 40"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 49,
+  "nombre": "Zelda Ocarina of Time",
+  "categoria": "Videojuego",
+  "descripcion": "Juego de videojuegos de próxima generación.",
+  "variantes": [
+    {
+      "id": "Zelda Ocarina of Time Edicion Estándar",
+      "opcion": "Edicion Estándar",
+      "precio": 999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/zldao.jpg", 
+             "Imagenespalproyecto/zldao3.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch",
+    "Peso del juego: 10 GB"
+    
+  ]
+    },
+    {
+      "id": "Zelda Ocarina of Time Edicion Pro",
+      "opcion": "Edicion Pro",
+      "precio": 1099,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/zldao2.jpg", 
+             "Imagenespalproyecto/zldao4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: Nintendo",
+    "Modelo: Switch",
+    "Peso del juego: 10 GB"
+    
+  ]
+    }
+   ]
+}, 
+{
+  "id": 50,
+  "nombre": "RTX 5070 ASUS",
+  "categoria": "Tarjeta de video",
+  "descripcion": "Tarjeta de video de alto rendimiento para gaming.",
+  "variantes": [
+    {
+      "id": "RTX 5070 ASUS Edicion Estándar",
+      "opcion": "Edicion Estándar",
+      "precio": 20999,
+      "stock": 10,
+      "imagenes": [
+        "Imagenespalproyecto/5070asus.jpg", 
+             "Imagenespalproyecto/5070asus2.jpg"
+      ],
+       "detalles": [
+    "Fabricante: ASUS",
+    "Modelo: RTX 5070",
+    "Memoria: 12 GB",
+    "Tipo: GDDR6X"
+    
+  ]
+    },
+    {
+      "id": "RTX 5070 ASUS Edicion Pro",
+      "opcion": "Edicion Pro",
+      "precio": 22999,
+      "stock": 5,
+      "imagenes": [
+        "Imagenespalproyecto/5070asus3.jpg", 
+             "Imagenespalproyecto/5070asus4.jpg"
+      ],
+       "detalles": [
+    "Fabricante: ASUS",
+    "Modelo: RTX 5070",
+    "Memoria: 12 GB",
+    "Tipo: GDDR6X"
+        
+  ]
+}
+    ]
+  }
+
+
+
+
+
+  ]
+
